@@ -1,7 +1,3 @@
-Here is a professional, innovative, and impressive `README.md` for your GitHub repository on **VirConvNet**:
-
----
-
 # VirConvNet: Virtual Sparse Convolution for Multimodal 3D Object Detection 🚘🧠🔭
 
 VirConvNet is an advanced multimodal 3D object detection framework that integrates **LiDAR** and **RGB camera** data to deliver **real-time, robust, and noise-resilient** detection performance. Designed for autonomous driving applications, it introduces **Stochastic Voxel Discard (StVD)** and **Noise-Resistant Submanifold Convolution (NRConv)** to optimize computational efficiency and improve accuracy, even in sparse or noisy environments.
@@ -136,8 +132,4 @@ If you use this work, please cite:
   booktitle={CVPR},
   year={2023}
 }
-```
-
----
-
-Let me know if you want a `requirements.txt`, badge support (like "KITTI AP ↑", "Speed ↑", etc.), or deployment instructions (e.g., Colab-ready version).
+`''
